@@ -1,6 +1,0 @@
-# robots.txt - 完全开放和全部允许所有搜索引擎抓取
-User-agent: *
-Allow: /
-Disallow:
-
-Sitemap: sitemap.xml
